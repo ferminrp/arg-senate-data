@@ -1,15 +1,24 @@
 [
   {
     "name": "Abad, Maximiliano",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Maximiliano_Abad.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Maximiliano_Abad.png",
+    "party": "Union Civica Radical",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Maximiliano_Abad",
+    "province": "Buenos Aires"
   },
   {
     "name": "Abdala, Bartolomé Esteban",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/COMISI%C3%93N_DE_LEGISLACI%C3%93N_GENERAL_%28cropped%29.jpg/220px-COMISI%C3%93N_DE_LEGISLACI%C3%93N_GENERAL_%28cropped%29.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/COMISI%C3%93N_DE_LEGISLACI%C3%93N_GENERAL_%28cropped%29.jpg/220px-COMISI%C3%93N_DE_LEGISLACI%C3%93N_GENERAL_%28cropped%29.jpg",
+    "party": "La Libertad Avanza",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Bartolom%C3%A9_Abdala",
+    "province": "San Luis"
   },
   {
     "name": "Alvarez Rivero, Carmen Silvia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Carmen_%C3%81lvarez_Rivero_2023.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Carmen_%C3%81lvarez_Rivero_2023.png",
+    "party": "Propuesta Republicana",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Carmen_%C3%81lvarez_Rivero",
+    "province": "Córdoba"
   },
   {
     "name": "Andrada, Guillermo Eduardo",
