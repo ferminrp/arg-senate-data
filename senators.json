@@ -22,23 +22,38 @@
   },
   {
     "name": "Andrada, Guillermo Eduardo",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Guillermo_Eduardo_Andrada.gif"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Guillermo_Eduardo_Andrada.gif",
+    "party": "Frente de Todos",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Guillermo_Andrada",
+    "province": "Catamarca"
   },
   {
     "name": "Arce, Carlos Omar",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Carlos_Omar_Arce.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Carlos_Omar_Arce.png",
+    "party": "Partido de la Concordia Social",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Carlos_Omar_Arce",
+    "province": "Misiones"
   },
   {
     "name": "Arrascaeta, Ivanna Marcela",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ivanna_Marcela_Arrascaeta.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ivanna_Marcela_Arrascaeta.png",
+    "party": "La Libertad Avanza",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Ivanna_Marcela_Arrascaeta",
+    "province": "San Luis"
   },
   {
     "name": "Atache, Ezequiel",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ezequiel_Atauche.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ezequiel_Atauche.png",
+    "party": "La Libertad Avanza",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Ezequiel_Atauche",
+    "province": "Jujuy"
   },
   {
     "name": "Ávila, Beatriz Luisa",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Beatriz_Luisa_%C3%81vila.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Beatriz_Luisa_%C3%81vila.png",
+    "party": "Compromiso Tucumán",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Beatriz_Luisa_%C3%81vila",
+    "province": "Tucumán"
   },
   {
     "name": "Bedia, Vilma Facunda",
