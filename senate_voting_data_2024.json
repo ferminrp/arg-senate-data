@@ -1,0 +1,5072 @@
+[
+    {
+        "motion_number": "2524/24",
+        "date": "20/02/2025 16:05:40",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:05:40 Acta : 1",
+        "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 70,
+        "absent": 2,
+        "affirmative": 53,
+        "negative": 17,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "SI",
+                "seat": "15"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "NO",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "SI",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "NO",
+                "seat": "68"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "SI",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "AUSENTE",
+                "seat": "41"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "NO",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "SI",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "NO",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "NO",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "NO",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "SI",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "SI",
+                "seat": "51"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "SI",
+                "seat": "17"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "NO",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "NO",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "NO",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "NO",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "NO",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "SI",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "SI",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "SI",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "NO",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "SI",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "SI",
+                "seat": "2"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "25"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "NO",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "SI",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "NO",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "SI",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "SI",
+                "seat": "23"
+            },
+            {
+                "name": "Goerling Lara, Enrique Martín",
+                "vote": "SI",
+                "seat": "67"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "NO",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "NO",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "NO",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "SI",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "20"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2525
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 16:13:47",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:13:47 Acta : 2",
+        "majority_required": "DOS TERCIOS MIEMBROS DEL CUERPO",
+        "total_members": 72,
+        "present": 70,
+        "absent": 2,
+        "affirmative": 47,
+        "negative": 23,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "SI",
+                "seat": "15"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "NO",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "SI",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "NO",
+                "seat": "68"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "SI",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "AUSENTE",
+                "seat": "41"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "NO",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "SI",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "NO",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "NO",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "NO",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "SI",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "SI",
+                "seat": "51"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "SI",
+                "seat": "17"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "NO",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "NO",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "NO",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "NO",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "NO",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "NO",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "SI",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "SI",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "SI",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "NO",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "SI",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "SI",
+                "seat": "2"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "25"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "NO",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "NO",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "SI",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "SI",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "SI",
+                "seat": "23"
+            },
+            {
+                "name": "Goerling Lara, Enrique Martín",
+                "vote": "NO",
+                "seat": "67"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "NO",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "NO",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "NO",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "NO",
+                "seat": "24"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "NO",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "SI",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "NO",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "20"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "NO",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2526
+    },
+    {
+        "motion_number": "2529/24",
+        "date": "20/02/2025 16:25:24",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:25:24 Acta : 3",
+        "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 62,
+        "absent": 10,
+        "affirmative": 47,
+        "negative": 15,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "AUSENTE",
+                "seat": "37"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "SI",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "SI",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "NO",
+                "seat": "68"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "SI",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "AUSENTE",
+                "seat": "41"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "NO",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "SI",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "NO",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "AUSENTE",
+                "seat": "8"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "NO",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "AUSENTE",
+                "seat": "12"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "SI",
+                "seat": "51"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "SI",
+                "seat": "17"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "NO",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "NO",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "NO",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "NO",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "NO",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "AUSENTE",
+                "seat": "19"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "SI",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "NO",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "AUSENTE",
+                "seat": "59"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "SI",
+                "seat": "2"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "25"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "NO",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "SI",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "NO",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "SI",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "AUSENTE",
+                "seat": "30"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "SI",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "NO",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "AUSENTE",
+                "seat": "70"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "SI",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "20"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2527
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 16:27:35",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:27:35 Acta : 4",
+        "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 61,
+        "absent": 11,
+        "affirmative": 46,
+        "negative": 15,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "AUSENTE",
+                "seat": "37"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "SI",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "SI",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "NO",
+                "seat": "68"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "SI",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "AUSENTE",
+                "seat": "41"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "NO",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "SI",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "NO",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "AUSENTE",
+                "seat": "8"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "NO",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "AUSENTE",
+                "seat": "12"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "SI",
+                "seat": "51"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "SI",
+                "seat": "17"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "AUSENTE",
+                "seat": "15"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "NO",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "NO",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "NO",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "NO",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "AUSENTE",
+                "seat": "19"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "SI",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "NO",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "AUSENTE",
+                "seat": "59"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "SI",
+                "seat": "2"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "25"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "NO",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "SI",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "NO",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "SI",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "AUSENTE",
+                "seat": "30"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "NO",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "NO",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "AUSENTE",
+                "seat": "70"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "SI",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "20"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2528
+    },
+    {
+        "motion_number": "2530/24",
+        "date": "20/02/2025 16:29:45",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:29:45 Acta : 5",
+        "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 65,
+        "absent": 7,
+        "affirmative": 42,
+        "negative": 23,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "SI",
+                "seat": "15"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "NO",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "SI",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "NO",
+                "seat": "68"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "SI",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "AUSENTE",
+                "seat": "41"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "NO",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "SI",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "NO",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "AUSENTE",
+                "seat": "8"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "NO",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "SI",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "SI",
+                "seat": "51"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "SI",
+                "seat": "17"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "NO",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "NO",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "NO",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "NO",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "NO",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "AUSENTE",
+                "seat": "19"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "SI",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "NO",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "AUSENTE",
+                "seat": "59"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "SI",
+                "seat": "2"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "25"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "NO",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "NO",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "SI",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "NO",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "SI",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "AUSENTE",
+                "seat": "30"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "NO",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "NO",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "NO",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "AUSENTE",
+                "seat": "70"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "SI",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "NO",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "NO",
+                "seat": "20"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "NO",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2529
+    },
+    {
+        "motion_number": "2521/24",
+        "date": "20/02/2025 16:31:57",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:31:57 Acta : 6",
+        "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 63,
+        "absent": 9,
+        "affirmative": 1,
+        "negative": 0,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "AUSENTE",
+                "seat": "41"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "AUSENTE",
+                "seat": "8"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "AUSENTE",
+                "seat": "47"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "AUSENTE",
+                "seat": "59"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "25"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "AUSENTE",
+                "seat": "62"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "AUSENTE",
+                "seat": "30"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "32"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "AUSENTE",
+                "seat": "70"
+            }
+        ],
+        "act_id": 2530
+    },
+    {
+        "motion_number": "2539/24",
+        "date": "20/02/2025 16:50:02",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:50:02 Acta : 7",
+        "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 67,
+        "absent": 5,
+        "affirmative": 39,
+        "negative": 28,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "AUSENTE",
+                "seat": "37"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "NO",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "SI",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "NO",
+                "seat": "68"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "SI",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "AUSENTE",
+                "seat": "41"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "NO",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "SI",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "NO",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "NO",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "NO",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "AUSENTE",
+                "seat": "9"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "SI",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "SI",
+                "seat": "51"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "SI",
+                "seat": "17"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "NO",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "NO",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "NO",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "NO",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "NO",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "NO",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "NO",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "SI",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "SI",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "NO",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "NO",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "SI",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "SI",
+                "seat": "2"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "25"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "NO",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "NO",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "SI",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "SI",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "NO",
+                "seat": "23"
+            },
+            {
+                "name": "Goerling Lara, Enrique Martín",
+                "vote": "NO",
+                "seat": "67"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "NO",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "NO",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "NO",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "NO",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "NO",
+                "seat": "24"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "AUSENTE",
+                "seat": "35"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "NO",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "NO",
+                "seat": "20"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "NO",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2531
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 17:19:19",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 17:19:19 Acta : 8",
+        "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 61,
+        "absent": 11,
+        "affirmative": 61,
+        "negative": 0,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "SI",
+                "seat": "15"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "SI",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "SI",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "SI",
+                "seat": "68"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "AUSENTE",
+                "seat": "40"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "López, Cándida Cristina",
+                "vote": "SI",
+                "seat": "30"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "SI",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "AUSENTE",
+                "seat": "7"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "SI",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "AUSENTE",
+                "seat": "11"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "AUSENTE",
+                "seat": "12"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "SI",
+                "seat": "51"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "SI",
+                "seat": "17"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "SI",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "SI",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "AUSENTE",
+                "seat": "56"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "SI",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "SI",
+                "seat": "2"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "SI",
+                "seat": "60"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "SI",
+                "seat": "63"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "AUSENTE",
+                "seat": "63"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "AUSENTE",
+                "seat": "65"
+            },
+            {
+                "name": "Goerling Lara, Enrique Martín",
+                "vote": "SI",
+                "seat": "67"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "32"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "AUSENTE",
+                "seat": "33"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "SI",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2532
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 17:20:31",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 17:20:31 Acta : 9",
+        "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 61,
+        "absent": 11,
+        "affirmative": 34,
+        "negative": 27,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "NO",
+                "seat": "15"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "SI",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "NO",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "SI",
+                "seat": "68"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "NO",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "AUSENTE",
+                "seat": "40"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "López, Cándida Cristina",
+                "vote": "NO",
+                "seat": "30"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "SI",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "AUSENTE",
+                "seat": "7"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "SI",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "NO",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "NO",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "AUSENTE",
+                "seat": "11"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "AUSENTE",
+                "seat": "12"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "NO",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "NO",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "NO",
+                "seat": "51"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "NO",
+                "seat": "17"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "NO",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "NO",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "SI",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "NO",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "NO",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "AUSENTE",
+                "seat": "56"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "NO",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "NO",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "NO",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "NO",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "NO",
+                "seat": "2"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "SI",
+                "seat": "60"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "NO",
+                "seat": "63"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "NO",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "AUSENTE",
+                "seat": "63"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "NO",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "AUSENTE",
+                "seat": "65"
+            },
+            {
+                "name": "Goerling Lara, Enrique Martín",
+                "vote": "SI",
+                "seat": "67"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "NO",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "AUSENTE",
+                "seat": "32"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "AUSENTE",
+                "seat": "33"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "NO",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2533
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 20:05:04",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 20:05:04 Acta : 10",
+        "majority_required": "MAS 1/2 MIEMBROS DEL CUERPO",
+        "total_members": 72,
+        "present": 69,
+        "absent": 3,
+        "affirmative": 43,
+        "negative": 20,
+        "abstentions": 6,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "NO",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "SI",
+                "seat": "15"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "SI",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "SI",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "SI",
+                "seat": "68"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "NO",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "López, Cándida Cristina",
+                "vote": "NO",
+                "seat": "30"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "SI",
+                "seat": "47"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "SI",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "AUSENTE",
+                "seat": "8"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "NO",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "NO",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "NO",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "SI",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "NO",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "SI",
+                "seat": "51"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "NO",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "NO",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "NO",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "NO",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "NO",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "NO",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "NO",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "NO",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "NO",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "NO",
+                "seat": "2"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "SI",
+                "seat": "60"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "SI",
+                "seat": "63"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "NO",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "AUSENTE",
+                "seat": "64"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "AUSENTE",
+                "seat": "65"
+            },
+            {
+                "name": "Goerling Lara, Enrique Martín",
+                "vote": "SI",
+                "seat": "67"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "SI",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "SI",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "NO",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "20"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2534
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 21:53:09",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 21:53:09 Acta : 11",
+        "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 67,
+        "absent": 5,
+        "affirmative": 46,
+        "negative": 21,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "NO",
+                "seat": "15"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "SI",
+                "seat": "Presidente"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "NO",
+                "seat": "49"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "SI",
+                "seat": "68"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "AUSENTE",
+                "seat": "4"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "NO",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "López, Cándida Cristina",
+                "vote": "NO",
+                "seat": "30"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "SI",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "NO",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "SI",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "SI",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "NO",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "SI",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "NO",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "SI",
+                "seat": "51"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "SI",
+                "seat": "17"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "AUSENTE",
+                "seat": "54"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "NO",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "NO",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "NO",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "NO",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "NO",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "NO",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "NO",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "AUSENTE",
+                "seat": "60"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "SI",
+                "seat": "63"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "AUSENTE",
+                "seat": "63"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "NO",
+                "seat": "36"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "NO",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "AUSENTE",
+                "seat": "30"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "NO",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "SI",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "NO",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "SI",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "23"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "NO",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2535
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 22:47:23",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 22:47:23 Acta : 12",
+        "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 67,
+        "absent": 5,
+        "affirmative": 67,
+        "negative": 0,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "AUSENTE",
+                "seat": "2"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "AUSENTE",
+                "seat": "3"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "SI",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "López, Cándida Cristina",
+                "vote": "SI",
+                "seat": "30"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "SI",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "SI",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "SI",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "SI",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "SI",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "AUSENTE",
+                "seat": "14"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "SI",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "SI",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "SI",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "SI",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "AUSENTE",
+                "seat": "60"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "SI",
+                "seat": "63"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "SI",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "SI",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "AUSENTE",
+                "seat": "30"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "SI",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "SI",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "23"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "SI",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2536
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 22:50:12",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 22:50:12 Acta : 13",
+        "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 67,
+        "absent": 5,
+        "affirmative": 67,
+        "negative": 0,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "AUSENTE",
+                "seat": "2"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "AUSENTE",
+                "seat": "3"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "SI",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "López, Cándida Cristina",
+                "vote": "SI",
+                "seat": "30"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "SI",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "SI",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "SI",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "SI",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "SI",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "AUSENTE",
+                "seat": "14"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "SI",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "SI",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "SI",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "SI",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "AUSENTE",
+                "seat": "60"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "SI",
+                "seat": "63"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "SI",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "SI",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "AUSENTE",
+                "seat": "30"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "SI",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "SI",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "SI",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "23"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "SI",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2537
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 22:52:01",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 22:52:01 Acta : 14",
+        "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 67,
+        "absent": 5,
+        "affirmative": 38,
+        "negative": 29,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "AUSENTE",
+                "seat": "2"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "AUSENTE",
+                "seat": "3"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "NO",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "NO",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "NO",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "López, Cándida Cristina",
+                "vote": "NO",
+                "seat": "30"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "SI",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "NO",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "SI",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "SI",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "NO",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "NO",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "NO",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "NO",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "NO",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "AUSENTE",
+                "seat": "14"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "NO",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "NO",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "SI",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "NO",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "NO",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "NO",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "NO",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "NO",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "NO",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "NO",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "AUSENTE",
+                "seat": "60"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "SI",
+                "seat": "63"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "NO",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "NO",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "NO",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "NO",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "NO",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "AUSENTE",
+                "seat": "30"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "NO",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "SI",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "NO",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "SI",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "23"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "NO",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2538
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 22:53:13",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 22:53:13 Acta : 15",
+        "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 67,
+        "absent": 5,
+        "affirmative": 66,
+        "negative": 1,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "AUSENTE",
+                "seat": "2"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "AUSENTE",
+                "seat": "3"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "SI",
+                "seat": "31"
+            },
+            {
+                "name": "Linares, Carlos Alberto",
+                "vote": "SI",
+                "seat": "29"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "López, Cándida Cristina",
+                "vote": "SI",
+                "seat": "30"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "SI",
+                "seat": "47"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "SI",
+                "seat": "35"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "SI",
+                "seat": "26"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "SI",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "SI",
+                "seat": "33"
+            },
+            {
+                "name": "Bensusán, Daniel Pablo",
+                "vote": "SI",
+                "seat": "27"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "SI",
+                "seat": "32"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Montenegro, Gerardo Antenor",
+                "vote": "AUSENTE",
+                "seat": "14"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "SI",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Paoltroni, Francisco Manuel",
+                "vote": "SI",
+                "seat": "66"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "SI",
+                "seat": "1"
+            },
+            {
+                "name": "Parrilli, Oscar Isidro",
+                "vote": "SI",
+                "seat": "12"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "SI",
+                "seat": "14"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "SI",
+                "seat": "57"
+            },
+            {
+                "name": "Recalde, Mariano",
+                "vote": "SI",
+                "seat": "13"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "SI",
+                "seat": "11"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "SI",
+                "seat": "52"
+            },
+            {
+                "name": "Fernández Sagasti, Anabel",
+                "vote": "AUSENTE",
+                "seat": "60"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "SI",
+                "seat": "63"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "SI",
+                "seat": "5"
+            },
+            {
+                "name": "García Larraburu, Silvina Marcela",
+                "vote": "SI",
+                "seat": "55"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "SI",
+                "seat": "53"
+            },
+            {
+                "name": "Giménez Navarro, María Celeste",
+                "vote": "SI",
+                "seat": "54"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "SI",
+                "seat": "16"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "AUSENTE",
+                "seat": "30"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "NO",
+                "seat": "18"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "SI",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "SI",
+                "seat": "28"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "SI",
+                "seat": "9"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "23"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "SI",
+                "seat": "56"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "act_id": 2539
+    },
+    {
+        "motion_number": null,
+        "date": "20/02/2025 23:46:18",
+        "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 23:46:18 Acta : 16",
+        "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
+        "total_members": 72,
+        "present": 38,
+        "absent": 34,
+        "affirmative": 38,
+        "negative": 0,
+        "abstentions": 0,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Leavy, Sergio Napoleón",
+                "vote": "AUSENTE",
+                "seat": "2"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "AUSENTE",
+                "seat": "3"
+            },
+            {
+                "name": "Lewandowski, Marcelo Néstor",
+                "vote": "SI",
+                "seat": "4"
+            },
+            {
+                "name": "Andrada, Guillermo Eduardo",
+                "vote": "AUSENTE",
+                "seat": "40"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "López, Cándida Cristina",
+                "vote": "AUSENTE",
+                "seat": "6"
+            },
+            {
+                "name": "López, María Florencia",
+                "vote": "AUSENTE",
+                "seat": "7"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "SI",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "AUSENTE",
+                "seat": "10"
+            },
+            {
+                "name": "Mayans, José Miguel Ángel",
+                "vote": "AUSENTE",
+                "seat": "11"
+            },
+            {
+                "name": "Mendoza, Sandra Mariela",
+                "vote": "AUSENTE",
+                "seat": "12"
+            },
+            {
+                "name": "Moisés, María Carolina",
+                "vote": "SI",
+                "seat": "3"
+            },
+            {
+                "name": "Cora, Stefanía",
+                "vote": "AUSENTE",
+                "seat": "49"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna",
+                "vote": "AUSENTE",
+                "seat": "50"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "46"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique",
+                "vote": "AUSENTE",
+                "seat": "54"
+            },
+            {
+                "name": "Di Tullio, Juliana",
+                "vote": "AUSENTE",
+                "seat": "55"
+            },
+            {
+                "name": "Doñate, Claudio Martín",
+                "vote": "AUSENTE",
+                "seat": "56"
+            },
+            {
+                "name": "Duré, María Eugenia",
+                "vote": "AUSENTE",
+                "seat": "57"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Rejal, Jesús Fernando",
+                "vote": "AUSENTE",
+                "seat": "23"
+            },
+            {
+                "name": "Rodas, Antonio",
+                "vote": "AUSENTE",
+                "seat": "24"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "SI",
+                "seat": "60"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "SI",
+                "seat": "63"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Salino, Fernando Aldo",
+                "vote": "AUSENTE",
+                "seat": "27"
+            },
+            {
+                "name": "Sapag, Silvia Estela",
+                "vote": "AUSENTE",
+                "seat": "28"
+            },
+            {
+                "name": "Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Gimenez, Nora del Valle",
+                "vote": "AUSENTE",
+                "seat": "65"
+            },
+            {
+                "name": "Goerling Lara, Enrique Martín",
+                "vote": "SI",
+                "seat": "67"
+            },
+            {
+                "name": "Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "González, María Teresa Margarita",
+                "vote": "AUSENTE",
+                "seat": "67"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "SI",
+                "seat": "72"
+            },
+            {
+                "name": "Uñac, Sergio Mauricio",
+                "vote": "AUSENTE",
+                "seat": "33"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "23"
+            },
+            {
+                "name": "Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia",
+                "vote": "AUSENTE",
+                "seat": "71"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "AUSENTE",
+                "seat": "72"
+            }
+        ],
+        "act_id": 2540
+    }
+]
