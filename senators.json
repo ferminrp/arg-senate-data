@@ -2,309 +2,782 @@
   {
     "name": "Abad, Maximiliano",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Maximiliano_Abad.png",
-    "party": "Union Civica Radical",
+    "party": "Juntos por el Cambio",
     "wikipedia_url": "https://es.wikipedia.org/wiki/Maximiliano_Abad",
-    "province": "Buenos Aires"
+    "province": "Buenos Aires",
+    "email": "maximiliano.abad@senado.gob.ar",
+    "telefono": "1045 / 1046",
+    "twitter": "https://x.com/maxiabad?s=11",
+    "instagram": "https://www.instagram.com/maxi.abad?igsh=MXc2YzF3YWduc3hneA=="
   },
   {
     "name": "Abdala, Bartolomé Esteban",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/COMISI%C3%93N_DE_LEGISLACI%C3%93N_GENERAL_%28cropped%29.jpg/220px-COMISI%C3%93N_DE_LEGISLACI%C3%93N_GENERAL_%28cropped%29.jpg",
-    "party": "La Libertad Avanza",
+    "party": "Alianza La Libertad Avanza",
     "wikipedia_url": "https://es.wikipedia.org/wiki/Bartolom%C3%A9_Abdala",
-    "province": "San Luis"
+    "province": "San Luis",
+    "email": "bartolome.abdala@senado.gob.ar",
+    "telefono": "1501",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Alvarez Rivero, Carmen Silvia",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Carmen_%C3%81lvarez_Rivero_2023.png",
-    "party": "Propuesta Republicana",
+    "party": "Juntos por el Cambio",
     "wikipedia_url": "https://es.wikipedia.org/wiki/Carmen_%C3%81lvarez_Rivero",
-    "province": "Córdoba"
+    "province": "Córdoba",
+    "email": "carmen.alvarez@senado.gob.ar",
+    "telefono": "1393 / 1383",
+    "twitter": "https://twitter.com/CarmenAlvarezR",
+    "instagram": "https://www.instagram.com/carmenalvarezrivero"
   },
   {
     "name": "Andrada, Guillermo Eduardo",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Guillermo_Eduardo_Andrada.gif",
     "party": "Frente de Todos",
     "wikipedia_url": "https://es.wikipedia.org/wiki/Guillermo_Andrada",
-    "province": "Catamarca"
+    "province": "Catamarca",
+    "email": "guillermo.andrada@senado.gob.ar",
+    "telefono": "3567",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Arce, Carlos Omar",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Carlos_Omar_Arce.png",
-    "party": "Partido de la Concordia Social",
+    "party": "Frente Renovador de la Concordia-Innovación Federal",
     "wikipedia_url": "https://es.wikipedia.org/wiki/Carlos_Omar_Arce",
-    "province": "Misiones"
+    "province": "Misiones",
+    "email": "carlos.arce@senado.gob.ar",
+    "telefono": "1359 / 1364",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Arrascaeta, Ivanna Marcela",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ivanna_Marcela_Arrascaeta.png",
-    "party": "La Libertad Avanza",
+    "party": "Alianza La Libertad Avanza",
     "wikipedia_url": "https://es.wikipedia.org/wiki/Ivanna_Marcela_Arrascaeta",
-    "province": "San Luis"
+    "province": "San Luis",
+    "email": "ivanna.arrascaeta@senado.gob.ar",
+    "telefono": "3235 / 3286 / 3288",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Atache, Ezequiel",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ezequiel_Atauche.png",
-    "party": "La Libertad Avanza",
+    "party": "Partido Renovador Federal",
     "wikipedia_url": "https://es.wikipedia.org/wiki/Ezequiel_Atauche",
-    "province": "Jujuy"
+    "province": "Jujuy",
+    "email": "ezequiel.atauche@senado.gob.ar",
+    "telefono": "8083",
+    "twitter": "https://twitter.com/ezeatauche",
+    "instagram": "https://www.instagram.com/ezeatauche"
   },
   {
     "name": "Ávila, Beatriz Luisa",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Beatriz_Luisa_%C3%81vila.png",
-    "party": "Compromiso Tucumán",
+    "party": "Juntos por el Cambio",
     "wikipedia_url": "https://es.wikipedia.org/wiki/Beatriz_Luisa_%C3%81vila",
-    "province": "Tucumán"
+    "province": "Tucumán",
+    "email": "beatriz.avila@senado.gob.ar",
+    "telefono": "3508 / 3309 / 1086",
+    "twitter": "http://www.twitter.com/beatriz_avilaok",
+    "instagram": "http://www.instagram.com/beatrizavilaok"
   },
   {
     "name": "Bedia, Vilma Facunda",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Vilma_Facunda_Bedia.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Vilma_Facunda_Bedia.png",
+    "party": "Partido Renovador Federal",
+    "wikipedia_url": "https://es.wikipedia.org/wiki/Vilma_Facunda_Bedia",
+    "province": "Jujuy",
+    "email": "vilma.bedia@senado.gob.ar",
+    "telefono": "3415",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Bensusán, Daniel Pablo",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Daniel_Pablo_Bensus%C3%A1n.gif"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Daniel_Pablo_Bensus%C3%A1n.gif",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "La Pampa",
+    "email": "daniel.bensusan@senado.gob.ar",
+    "telefono": "1305 / 1307 / 1310",
+    "twitter": "https://twitter.com/palibensusan?s=11",
+    "instagram": "https://www.instagram.com/palibensusan/"
   },
   {
     "name": "Blanco, Pablo Daniel",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pablo_Daniel_Blanco.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pablo_Daniel_Blanco.png",
+    "party": "Juntos por el Cambio Tierra del Fuego",
+    "wikipedia_url": "",
+    "province": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "email": "pablo.blanco@senado.gob.ar",
+    "telefono": "8702",
+    "twitter": "https://twitter.com/blancopabloda",
+    "instagram": "https://www.instagram.com/blancopablodaniel"
   },
   {
     "name": "Carambia, José María",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jos%C3%A9_Mar%C3%ADa_Carambia.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jos%C3%A9_Mar%C3%ADa_Carambia.png",
+    "party": "Alianza por Santa Cruz",
+    "wikipedia_url": "",
+    "province": "Santa Cruz",
+    "email": "jose.carambia@senado.gob.ar",
+    "telefono": "3408",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Cora, Stefanía",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fotograf%C3%ADa_de_Stefan%C3%ADa_Cora.jpg/250px-Fotograf%C3%ADa_de_Stefan%C3%ADa_Cora.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fotograf%C3%ADa_de_Stefan%C3%ADa_Cora.jpg/250px-Fotograf%C3%ADa_de_Stefan%C3%ADa_Cora.jpg",
+    "party": "",
+    "wikipedia_url": "",
+    "province": "",
+    "email": "",
+    "telefono": "",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Corpacci, Lucia Benigna",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Luc%C3%ADa_Corpacci_-_Diputada.png/220px-Luc%C3%ADa_Corpacci_-_Diputada.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Luc%C3%ADa_Corpacci_-_Diputada.png/220px-Luc%C3%ADa_Corpacci_-_Diputada.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Catamarca",
+    "email": "lucia.corpacci@senado.gob.ar",
+    "telefono": "1435 / 1403",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Crexell, Carmen Lucila",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Carmen_Crexell.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Carmen_Crexell.png",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Neuquén",
+    "email": "lucila.crexell@senado.gob.ar",
+    "telefono": "3550 / 1411",
+    "twitter": "https://twitter.com/LucilaCrexell",
+    "instagram": ""
   },
   {
     "name": "Cristina, Andrea Marcela",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Andrea_Marcela_Cristina.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Andrea_Marcela_Cristina.png",
+    "party": "Juntos por el Cambio Chubut",
+    "wikipedia_url": "",
+    "province": "Chubut",
+    "email": "andrea.cristina@senado.gob.ar",
+    "telefono": "3453",
+    "twitter": "https://x.com/andycristina07?s=11",
+    "instagram": "https://www.instagram.com/andreacristina.chubut?igsh=Y2hzbzE3MWEyaGxl"
   },
   {
     "name": "De Angeli, Alfredo Luis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/De_%C3%81ngeli_enero_2016_%28cropped%29.jpg/250px-De_%C3%81ngeli_enero_2016_%28cropped%29.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/De_%C3%81ngeli_enero_2016_%28cropped%29.jpg/250px-De_%C3%81ngeli_enero_2016_%28cropped%29.jpg",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Entre Ríos",
+    "email": "alfredo.deangeli@senado.gob.ar",
+    "telefono": "3580 / 81 / 82 / 84",
+    "twitter": "https://twitter.com/alfredodeangeli",
+    "instagram": ""
   },
   {
     "name": "De Pedro, Eduardo Enrique",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eduardo_de_Pedro_2019.jpg/220px-Eduardo_de_Pedro_2019.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Eduardo_de_Pedro_2019.jpg/220px-Eduardo_de_Pedro_2019.jpg",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "Buenos Aires",
+    "email": "eduardo.depedro@senado.gob.ar",
+    "telefono": "1069 / 1073 / 1080",
+    "twitter": "https://twitter.com/wadodecorrido",
+    "instagram": "https://www.instagram.com/wadodecorrido"
   },
   {
     "name": "Di Tullio, Juliana",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Juliana_di_Tullio_2023.jpg/220px-Juliana_di_Tullio_2023.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Juliana_di_Tullio_2023.jpg/220px-Juliana_di_Tullio_2023.jpg",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "Buenos Aires",
+    "email": "juliana.ditullio@senado.gob.ar",
+    "telefono": "1084 / 1098",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Doñate, Claudio Martín",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Claudio_Mart%C3%ADn_Do%C3%B1ate_senado.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Claudio_Mart%C3%ADn_Do%C3%B1ate_senado.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Río Negro",
+    "email": "martin.donate@senado.gob.ar",
+    "telefono": "1060",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Duré, María Eugenia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mar%C3%ADa_Eugenia_Dur%C3%A9.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mar%C3%ADa_Eugenia_Dur%C3%A9.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "email": "maria.dure@senado.gob.ar",
+    "telefono": "3302",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Espínola, Carlos Mauricio",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Camau_foto_wikipedia.jpg/220px-Camau_foto_wikipedia.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Camau_foto_wikipedia.jpg/220px-Camau_foto_wikipedia.jpg",
+    "party": "Frente Todos",
+    "wikipedia_url": "",
+    "province": "Corrientes",
+    "email": "carlos.espinola@senado.gob.ar",
+    "telefono": "1222 / 1225 / 3183 / 3190",
+    "twitter": "https://twitter.com/espinolacamau",
+    "instagram": ""
   },
   {
     "name": "Fama, Flavio Sergio",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Senador_Flavio_Fama_%28cropped%29.jpg/220px-Senador_Flavio_Fama_%28cropped%29.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Senador_Flavio_Fama_%28cropped%29.jpg/220px-Senador_Flavio_Fama_%28cropped%29.jpg",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Catamarca",
+    "email": "flavio.fama@senado.gob.ar",
+    "telefono": "1396",
+    "twitter": "https://twitter.com/flaviofama",
+    "instagram": "https://instagram.com/flaviofamaoficial"
   },
   {
     "name": "Fernández Sagasti, Anabel",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Anabel_Fern%C3%A1ndez_Sagasti.jpg/220px-Anabel_Fern%C3%A1ndez_Sagasti.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Anabel_Fern%C3%A1ndez_Sagasti.jpg/220px-Anabel_Fern%C3%A1ndez_Sagasti.jpg",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Mendoza",
+    "email": "anabel.fernandezsagasti@senado.gob.ar",
+    "telefono": "1535 / 1467",
+    "twitter": "https://twitter.com/anabelfsagasti",
+    "instagram": "https://www.instagram.com/anabelfsagasti"
   },
   {
     "name": "Galaretto, Eduardo Horacio",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Eduardo_Horacio_Galaretto.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Eduardo_Horacio_Galaretto.png",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Santa Fe",
+    "email": "eduardo.galaretto@senado.gob.ar",
+    "telefono": "3543 / 3544",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "García Larraburu, Silvina Marcela",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Silvinalarraburru.jpg/220px-Silvinalarraburru.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Silvinalarraburru.jpg/220px-Silvinalarraburru.jpg",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Río Negro",
+    "email": "silvina.garcialarraburu@senado.gob.ar",
+    "telefono": "3587/3590",
+    "twitter": "",
+    "instagram": "https://instagram.com/garcialarraburu/"
   },
   {
     "name": "Giménez Navarro, María Celeste",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mar%C3%ADa_Celeste_Gim%C3%A9nez_Navarro.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mar%C3%ADa_Celeste_Gim%C3%A9nez_Navarro.png",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "San Juan",
+    "email": "mcgimeneznavarro@senado.gob.ar",
+    "telefono": "8709 / 1340 / 1342 / 1332",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Gimenez, Nora del Valle",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Nora_del_Valle_Gim%C3%A9nez.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Nora_del_Valle_Gim%C3%A9nez.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Salta",
+    "email": "nora.gimenez@senado.gob.ar",
+    "telefono": "3535 / 3583 / 1352",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Goerling Lara, Enrique Martín",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Enrique_Mart%C3%ADn_Goerling_Lara.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Enrique_Mart%C3%ADn_Goerling_Lara.png",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Misiones",
+    "email": "martin.goerling@senado.gob.ar",
+    "telefono": "3126 / 3135",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "González, María Teresa Margarita",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mar%C3%ADa_Teresa_Margarita_Gonz%C3%A1lez.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mar%C3%ADa_Teresa_Margarita_Gonz%C3%A1lez.png",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "Formosa",
+    "email": "maria.gonzalez@senado.gob.ar",
+    "telefono": "1325 /1327",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Huala, María Victória",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mar%C3%ADa_Victoria_Huala.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mar%C3%ADa_Victoria_Huala.png",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "La Pampa",
+    "email": "victoria.huala@senado.gob.ar",
+    "telefono": "8340 / 3471",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Juez, Luis Alfredo",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Luis_Juez_2011-06-22.jpg/220px-Luis_Juez_2011-06-22.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Luis_Juez_2011-06-22.jpg/220px-Luis_Juez_2011-06-22.jpg",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Córdoba",
+    "email": "luis.juez@senado.gob.ar",
+    "telefono": "1374 /1375 / 1377 / 1378",
+    "twitter": "https://twitter.com/ljuez",
+    "instagram": "https://www.instagram.com/luisalfredojuez"
   },
   {
     "name": "Juri, Mariana",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mariana_Juri.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Mariana_Juri.png",
+    "party": "Frente Cambia Mendoza",
+    "wikipedia_url": "",
+    "province": "Mendoza",
+    "email": "mariana.juri@senado.gob.ar",
+    "telefono": "1450 / 1453",
+    "twitter": "https://twitter.com/mariana_juri",
+    "instagram": "https://www.instagram.com/marianajuri.ok"
   },
   {
     "name": "Kirchner, Alicia Margarita Antonia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alicia_Margarita_Antonia_Kirchner.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alicia_Margarita_Antonia_Kirchner.png",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "Santa Cruz",
+    "email": "alicia.kirchner@senado.gob.ar",
+    "telefono": "1389 / 1390",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Kroneberger, Daniel Ricardo",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Daniel_Ricardo_Kroneberger.png/220px-Daniel_Ricardo_Kroneberger.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Daniel_Ricardo_Kroneberger.png/220px-Daniel_Ricardo_Kroneberger.png",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "La Pampa",
+    "email": "daniel.kroneberger@senado.gob.ar",
+    "telefono": "1321 / 1324",
+    "twitter": "https://twitter.com/Dkroneberger",
+    "instagram": "https://www.instagram.com/kroneberger_daniel/?hl=en"
   },
   {
     "name": "Leavy, Sergio Napoleón",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sergio_Leavy.jpg/220px-Sergio_Leavy.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sergio_Leavy.jpg/220px-Sergio_Leavy.jpg",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Salta",
+    "email": "sergio.leavy@senado.gob.ar",
+    "telefono": "1487 / 1488 / 1512",
+    "twitter": "https://twitter.com/ElOsoLeavy",
+    "instagram": "https://www.instagram.com/osoleavy"
   },
   {
     "name": "Ledesma, Claudia Alejandra",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Claudia_Ledesma_Abdala_24-06-2021_cropped.png/220px-Claudia_Ledesma_Abdala_24-06-2021_cropped.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Claudia_Ledesma_Abdala_24-06-2021_cropped.png/220px-Claudia_Ledesma_Abdala_24-06-2021_cropped.png",
+    "party": "Frente Cívico por Santiago",
+    "wikipedia_url": "",
+    "province": "Santiago del Estero",
+    "email": "claudia.ledesma@senado.gob.ar",
+    "telefono": "8866 / 8835 / 8763 / 8834",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Lewandowski, Marcelo Néstor",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Marcelo_Lewandowski_2019.png/220px-Marcelo_Lewandowski_2019.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Marcelo_Lewandowski_2019.png/220px-Marcelo_Lewandowski_2019.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Santa Fe",
+    "email": "marcelo.lewandowski@senado.gob.ar",
+    "telefono": "1215",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Linares, Carlos Alberto",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Carlos_Linares.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Carlos_Linares.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Chubut",
+    "email": "carlos.linares@senado.gob.ar",
+    "telefono": "1373 / 1371 / 1368",
+    "twitter": "https://twitter.com/LinaresCarlosCR",
+    "instagram": "https://www.instagram.com/carloslinarescr/"
   },
   {
     "name": "López, María Florencia",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Mar%C3%ADa_Florencia_L%C3%B3pez.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/de/Mar%C3%ADa_Florencia_L%C3%B3pez.png",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "La Rioja",
+    "email": "florencia.lopez@senado.gob.ar",
+    "telefono": "1330/1331/3529 / 3530",
+    "twitter": "https://twitter.com/florelop?s=21&t=Lw6vKRLT-9lZyXSvaCKo8Q",
+    "instagram": "https://www.instagram.com/florelop?igsh=MW5vdndpcjB5NnN6Mw=="
   },
   {
     "name": "Losada, Carolina",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Carolina_Losada_2023.png/250px-Carolina_Losada_2023.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Carolina_Losada_2023.png/250px-Carolina_Losada_2023.png",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Santa Fe",
+    "email": "carolina.losada@senado.gob.ar",
+    "telefono": "5421 / 1426 / 1423",
+    "twitter": "https://twitter.com/carolinalosada",
+    "instagram": "https://www.instagram.com/carolosada"
   },
   {
     "name": "Lousteau, Martín",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MartinLousteau.jpg/220px-MartinLousteau.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MartinLousteau.jpg/220px-MartinLousteau.jpg",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "email": "martin.lousteau@senado.gob.ar",
+    "telefono": "3236 / 3255",
+    "twitter": "https://twitter.com/gugalusto",
+    "instagram": "https://www.instagram.com/gugalusto"
   },
   {
     "name": "Manzur, Juan Luis",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Manzur_y_Trotta_%28cropped%29.jpg/220px-Manzur_y_Trotta_%28cropped%29.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Manzur_y_Trotta_%28cropped%29.jpg/220px-Manzur_y_Trotta_%28cropped%29.jpg",
+    "party": "Alianza Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Tucumán",
+    "email": "juan.manzur@senado.gob.ar",
+    "telefono": "1354/1380",
+    "twitter": "https://twitter.com/JuanManzurOK",
+    "instagram": "https://www.instagram.com/juanluismanzur/"
   },
   {
     "name": "Mayans, José Miguel Ángel",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Senador_Jos%C3%A9_Mayans_13_de_marzo_de_2020_%28cropped%29.jpg/220px-Senador_Jos%C3%A9_Mayans_13_de_marzo_de_2020_%28cropped%29.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Senador_Jos%C3%A9_Mayans_13_de_marzo_de_2020_%28cropped%29.jpg/220px-Senador_Jos%C3%A9_Mayans_13_de_marzo_de_2020_%28cropped%29.jpg",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "Formosa",
+    "email": "mayans@senado.gob.ar",
+    "telefono": "1023 / 1036 / 1039",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Mendoza, Sandra Mariela",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sandra_Mariela_Mendoza.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sandra_Mariela_Mendoza.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Tucumán",
+    "email": "sandra.mendoza@senado.gob.ar",
+    "telefono": "1477/ 79 / 74",
+    "twitter": "https://twitter.com/sandram_tuc",
+    "instagram": "https://www.instagram.com/sandramendozasn"
   },
   {
     "name": "Moisés, María Carolina",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CarolinaMois%C3%A9swikipedia.jpg/220px-CarolinaMois%C3%A9swikipedia.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CarolinaMois%C3%A9swikipedia.jpg/220px-CarolinaMois%C3%A9swikipedia.jpg",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "Jujuy",
+    "email": "maria.moises@senado.gob.ar",
+    "telefono": "3194",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Montenegro, Gerardo Antenor",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gerardo_Montenegro.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gerardo_Montenegro.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Santiago del Estero",
+    "email": "gerardo.montenegro@senado.gob.ar",
+    "telefono": "3512 / 3521 / 3796 / 3797",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Neder, José Emilio",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Jos%C3%A9_Emilio_Neder_%282013%29_crop.jpg/220px-Jos%C3%A9_Emilio_Neder_%282013%29_crop.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Jos%C3%A9_Emilio_Neder_%282013%29_crop.jpg/220px-Jos%C3%A9_Emilio_Neder_%282013%29_crop.jpg",
+    "party": "Frente Cívico por Santiago",
+    "wikipedia_url": "",
+    "province": "Santiago del Estero",
+    "email": "jose.neder@senado.gob.ar",
+    "telefono": "1090 /1092 / 1093",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Olalla de Moreira, Stella Maris",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Stella_Maris_Olalla.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Stella_Maris_Olalla.png",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Entre Ríos",
+    "email": "stella.olalla@senado.gob.ar",
+    "telefono": "1330",
+    "twitter": "https://twitter.com/Senadora_Olalla",
+    "instagram": "https://www.instagram.com/senadorastellaolalla/"
   },
   {
     "name": "Olivera Lucero, Bruno Antonio",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bruno_Antonio_Olivera_Lucero.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bruno_Antonio_Olivera_Lucero.png",
+    "party": "Alianza La Libertad Avanza",
+    "wikipedia_url": "",
+    "province": "San Juan",
+    "email": "bruno.olivera@senado.gob.ar",
+    "telefono": "3436",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Pagotto, Juan Carlos",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Juan_Carlos_Pagotto_en_el_Senado%2C_2024_%28cropped%29.jpg/220px-Juan_Carlos_Pagotto_en_el_Senado%2C_2024_%28cropped%29.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Juan_Carlos_Pagotto_en_el_Senado%2C_2024_%28cropped%29.jpg/220px-Juan_Carlos_Pagotto_en_el_Senado%2C_2024_%28cropped%29.jpg",
+    "party": "Alianza La Libertad Avanza",
+    "wikipedia_url": "",
+    "province": "La Rioja",
+    "email": "juan.pagotto@senado.gob.ar",
+    "telefono": "1008",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Paoltroni, Francisco Manuel",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Francisco_Paoltroni_Formosa.jpg/250px-Francisco_Paoltroni_Formosa.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Francisco_Paoltroni_Formosa.jpg/250px-Francisco_Paoltroni_Formosa.jpg",
+    "party": "Alianza La Libertad Avanza",
+    "wikipedia_url": "",
+    "province": "Formosa",
+    "email": "francisco.paoltroni@senado.gob.ar",
+    "telefono": "3872",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Parrilli, Oscar Isidro",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Oscar_Isidro_Jos%C3%A9_Parrilli.jpg/220px-Oscar_Isidro_Jos%C3%A9_Parrilli.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Oscar_Isidro_Jos%C3%A9_Parrilli.jpg/220px-Oscar_Isidro_Jos%C3%A9_Parrilli.jpg",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Neuquén",
+    "email": "oscar.parrilli@senado.gob.ar",
+    "telefono": "1315 / 1317 / 5817",
+    "twitter": "https://twitter.com/Oscar_Parrilli",
+    "instagram": "https://www.instagram.com/oscar_parrilli"
   },
   {
     "name": "Recalde, Mariano",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mariano_Recalde.png/220px-Mariano_Recalde.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mariano_Recalde.png/220px-Mariano_Recalde.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "email": "mariano.recalde@senado.gob.ar",
+    "telefono": "3429",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Rejal, Jesús Fernando",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jes%C3%BAs_Fernando_Rejal.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Jes%C3%BAs_Fernando_Rejal.png",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "La Rioja",
+    "email": "jesus.rejal@senado.gob.ar",
+    "telefono": "1011 / 1013",
+    "twitter": "https://twitter.com/jfrejal",
+    "instagram": "https://www.instagram.com/fernandorejal/"
   },
   {
     "name": "Rodas, Antonio",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Antonio_Jos%C3%A9_Rodas.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Antonio_Jos%C3%A9_Rodas.png",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Chaco",
+    "email": "antonio.rodas@senado.gob.ar",
+    "telefono": "1355 / 1357",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Rojas Decut, Sonia Elizabeth",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sonia_Elizabeth_Rojas_Decut.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Sonia_Elizabeth_Rojas_Decut.png",
+    "party": "Frente Renovador de la Concordia-Innovación Federal",
+    "wikipedia_url": "",
+    "province": "Misiones",
+    "email": "sonia.rojas@senado.gob.ar",
+    "telefono": "3456 / 3457",
+    "twitter": "https://x.com/decutrojas",
+    "instagram": "https://www.instagram.com/soniarojasdecut"
   },
   {
     "name": "Romero, Juan Carlos",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Juan_Carlos_Romero_%28pol%C3%ADtico_argentino%29.jpg/220px-Juan_Carlos_Romero_%28pol%C3%ADtico_argentino%29.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Juan_Carlos_Romero_%28pol%C3%ADtico_argentino%29.jpg/220px-Juan_Carlos_Romero_%28pol%C3%ADtico_argentino%29.jpg",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Salta",
+    "email": "juan.romero@senado.gob.ar",
+    "telefono": "1218 / 1219",
+    "twitter": "https://twitter.com/romeroxsalta",
+    "instagram": "https://www.instagram.com/romeroxsalta"
   },
   {
     "name": "Salino, Fernando Aldo",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Fernando_Aldo_Salino.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Fernando_Aldo_Salino.png",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "San Luis",
+    "email": "fernando.salino@senado.gob.ar",
+    "telefono": "1524",
+    "twitter": "https://twitter.com/Fernando_Salino",
+    "instagram": "https://www.instagram.com/fernando_salino1"
   },
   {
     "name": "Sapag, Silvia Estela",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Silvia_Sapag_%282021%29_%28cropped%29.jpg/220px-Silvia_Sapag_%282021%29_%28cropped%29.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Silvia_Sapag_%282021%29_%28cropped%29.jpg/220px-Silvia_Sapag_%282021%29_%28cropped%29.jpg",
+    "party": "Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Neuquén",
+    "email": "silvia.sapag@senado.gob.ar",
+    "telefono": "3556 / 3557",
+    "twitter": "https://twitter.com/sapag_silvia",
+    "instagram": "https://www.instagram.com/silviasapag"
   },
   {
     "name": "Silva, Mónica Esther",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/M%C3%B3nica_Esther_Silva.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/M%C3%B3nica_Esther_Silva.png",
+    "party": "Juntos Somos Río Negro",
+    "wikipedia_url": "",
+    "province": "Río Negro",
+    "email": "monica.silva@senado.gob.ar",
+    "telefono": "1491 / 1493",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Suárez, Rodolfo Alejandro",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rodolfo_Suarez_es_el_nuevo_gobernador_de_la_provincia_%28cropped%29.jpg/220px-Rodolfo_Suarez_es_el_nuevo_gobernador_de_la_provincia_%28cropped%29.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rodolfo_Suarez_es_el_nuevo_gobernador_de_la_provincia_%28cropped%29.jpg/220px-Rodolfo_Suarez_es_el_nuevo_gobernador_de_la_provincia_%28cropped%29.jpg",
+    "party": "Frente Cambia Mendoza",
+    "wikipedia_url": "",
+    "province": "Mendoza",
+    "email": "rodolfo.suarez@senado.gob.ar",
+    "telefono": "1460",
+    "twitter": "https://twitter.com/rodysuarez",
+    "instagram": "https://www.instagram.com/rody.suarez"
   },
   {
     "name": "Tagliaferri, Guadalupe",
-    "img": ""
+    "img": "",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Ciudad Autónoma de Buenos Aires",
+    "email": "guadalupe.tagliaferri@senado.gob.ar",
+    "telefono": "3456",
+    "twitter": "https://twitter.com/lupetagliaferri",
+    "instagram": "https://www.instagram.com/lupetagliaferri"
   },
   {
     "name": "Terenzi, Edith Elizabeth",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Edith_Terenzi.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Edith_Terenzi.png",
+    "party": "Juntos por el Cambio Chubut",
+    "wikipedia_url": "",
+    "province": "Chubut",
+    "email": "edith.terenzi@senado.gob.ar",
+    "telefono": "3538",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Uñac, Sergio Mauricio",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SU_2023.jpg/220px-SU_2023.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SU_2023.jpg/220px-SU_2023.jpg",
+    "party": "Alianza Unión por la Patria",
+    "wikipedia_url": "",
+    "province": "San Juan",
+    "email": "sergio.unac@senado.gob.ar",
+    "telefono": "1433 / 1445 / 8792",
+    "twitter": "https://twitter.com/sergiounac/",
+    "instagram": "https://www.instagram.com/sergiounac"
   },
   {
     "name": "Valenzuela, Mercedes Gabriela",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mercedes_Valenzuela.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mercedes_Valenzuela.png",
+    "party": "ECO + Vamos Corrientes",
+    "wikipedia_url": "",
+    "province": "Corrientes",
+    "email": "mercedes.valenzuela@senado.gob.ar",
+    "telefono": "3400 / 02",
+    "twitter": "https://twitter.com/GabiValenzuel",
+    "instagram": "https://www.instagram.com/gabivalenzuela.ok"
   },
   {
     "name": "Vigo, Alejandra María",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Senadora_Alejandra_Vigo.jpg/220px-Senadora_Alejandra_Vigo.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Senadora_Alejandra_Vigo.jpg/220px-Senadora_Alejandra_Vigo.jpg",
+    "party": "Hacemos por Córdoba",
+    "wikipedia_url": "",
+    "province": "Córdoba",
+    "email": "alejandra.vigo@senado.gob.ar",
+    "telefono": "1441 / 1444 / 1456",
+    "twitter": "https://twitter.com/@alevigo",
+    "instagram": "https://www.instagram.com/@vigo_alejandra"
   },
   {
     "name": "Vischi, Eduardo Alejandro",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/PetecoFanPage.jpg/250px-PetecoFanPage.jpg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/PetecoFanPage.jpg/250px-PetecoFanPage.jpg",
+    "party": "ECO + Vamos Corrientes",
+    "wikipedia_url": "",
+    "province": "Corrientes",
+    "email": "eduardo.vischi@senado.gob.ar",
+    "telefono": "3185 / 3188 / 3189",
+    "twitter": "https://twitter.com/PeteCoVischi",
+    "instagram": "https://www.instagram.com/petecovischi/"
   },
   {
     "name": "Zimmermann, Victor",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Victor_Zimmermann.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Victor_Zimmermann.png",
+    "party": "Juntos por el Cambio",
+    "wikipedia_url": "",
+    "province": "Chaco",
+    "email": "victor.zimmermann@senado.gob.ar",
+    "telefono": "3522 / 3553",
+    "twitter": "https://twitter.com/VZimmermannOK",
+    "instagram": "https://instagram.com/Victor_zimmermann"
   },
   {
     "name": "López, Cándida Cristina",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/7/70/C%C3%A1ndida_Cristina_L%C3%B3pez.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/70/C%C3%A1ndida_Cristina_L%C3%B3pez.png",
+    "party": "Alianza Frente de Todos",
+    "wikipedia_url": "",
+    "province": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "email": "cristina.lopez@senado.gob.ar",
+    "telefono": "3578 / 3571",
+    "twitter": "",
+    "instagram": ""
   },
   {
     "name": "Gadano, Natalia Elena",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Natalia_Elena_Gadano.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Natalia_Elena_Gadano.png",
+    "party": "Alianza por Santa Cruz",
+    "wikipedia_url": "",
+    "province": "Santa Cruz",
+    "email": "natalia.gadano@senado.gob.ar",
+    "telefono": "3321 / 3353",
+    "twitter": "",
+    "instagram": ""
   }
-] 
+]
