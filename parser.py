@@ -59,11 +59,35 @@ def parse_votation_data(text):
     """Parses the extracted text and returns structured voting data."""
     data = {}
 
-    # Extract motion number and date
-    motion_match = re.search(r'MOCION SOBRE TABLAS Nº (\d+/\d+)', text)
-    date_match = re.search(r'(\d{2}/\d{2}/\d{4} \d{2}:\d{2}:\d{2})', text)
+    # Extract project information with improved patterns
+    project_match = re.search(r'Proyecto:\s*([^\n]+)', text)
+    if project_match:
+        project_text = project_match.group(1).strip()
+        # Try to extract ORDEN DEL DIA number
+        orden_match = re.search(r'ORDEN DEL DIA (\d+)', project_text)
+        if orden_match:
+            data["motion_number"] = orden_match.group(1)
+            # Extract project title (everything after the number in parentheses)
+            title_match = re.search(r'ORDEN DEL DIA \d+\s*\((.*?)\)', project_text)
+            if title_match:
+                data["project_title"] = title_match.group(1).strip()
+        else:
+            # If no ORDEN DEL DIA number, store the full project text
+            data["project_title"] = project_text
+    else:
+        # Try old format MOCION SOBRE TABLAS
+        motion_match = re.search(r'MOCION SOBRE TABLAS Nº (\d+/\d+)', text)
+        if motion_match:
+            data["motion_number"] = motion_match.group(1)
+        else:
+            data["motion_number"] = None
+
+    # Extract description if available
+    description_match = re.search(r'Descripción:\s*([^\n]+)', text)
+    data["description"] = description_match.group(1).strip() if description_match else None
+
+    date_match = re.search(r'(?:Fecha:|Fecha )?(\d{2}/\d{2}/\d{4} \d{2}:\d{2}:\d{2})', text)
     
-    data["motion_number"] = motion_match.group(1) if motion_match else None
     data["date"] = date_match.group(1) if date_match else None
     
     # Print the date being processed

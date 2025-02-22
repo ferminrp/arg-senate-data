@@ -229,5 +229,237 @@
         ],
         "result": "AFIRMATIVA",
         "act_id": 2444
+    },
+    {
+        "project_title": "PROYECTO EN TRATAMIENTO",
+        "description": "SE VOTA EN GENERAL Y EN PARTICULAR",
+        "date": "13/12/2023 16:31:00",
+        "quorum_type": "MAS 1/2 MC Fecha: 13/12/2023 16:31:00 Acta : 1",
+        "majority_required": "MAS 1/2 VOTOS EMITIDOS",
+        "total_members": 72,
+        "present": 68,
+        "absent": 4,
+        "affirmative": 39,
+        "negative": 0,
+        "abstentions": 29,
+        "votes": [
+            {
+                "name": "Abad, Maximiliano",
+                "vote": "SI",
+                "seat": "40"
+            },
+            {
+                "name": "Abdala, Bartolomé Esteban",
+                "vote": "SI",
+                "seat": "69"
+            },
+            {
+                "name": "Ledesma, Claudia Alejandra",
+                "vote": "AUSENTE",
+                "seat": "3"
+            },
+            {
+                "name": "Alvarez Rivero, Carmen Silvia",
+                "vote": "SI",
+                "seat": "68"
+            },
+            {
+                "name": "Arce, Carlos Omar",
+                "vote": "SI",
+                "seat": "58"
+            },
+            {
+                "name": "Arrascaeta, Ivanna Marcela",
+                "vote": "SI",
+                "seat": "47"
+            },
+            {
+                "name": "Atauche, Ezequiel",
+                "vote": "SI",
+                "seat": "36"
+            },
+            {
+                "name": "Losada, Carolina",
+                "vote": "SI",
+                "seat": "42"
+            },
+            {
+                "name": "Ávila, Beatriz Luisa",
+                "vote": "SI",
+                "seat": "10"
+            },
+            {
+                "name": "Lousteau, Martín",
+                "vote": "SI",
+                "seat": "7"
+            },
+            {
+                "name": "Bedia, Vilma Facunda",
+                "vote": "SI",
+                "seat": "37"
+            },
+            {
+                "name": "Manzur, Juan Luis",
+                "vote": "AUSENTE",
+                "seat": "10"
+            },
+            {
+                "name": "Blanco, Pablo Daniel",
+                "vote": "SI",
+                "seat": "43"
+            },
+            {
+                "name": "Carambia, José María",
+                "vote": "SI",
+                "seat": "72"
+            },
+            {
+                "name": "Corpacci, Lucia Benigna ABS. 17 49.Montenegro, Gerardo Antenor",
+                "vote": "AUSENTE",
+                "seat": "14"
+            },
+            {
+                "name": "Crexell, Carmen Lucila",
+                "vote": "SI",
+                "seat": "38"
+            },
+            {
+                "name": "Neder, José Emilio",
+                "vote": "AUSENTE",
+                "seat": "15"
+            },
+            {
+                "name": "Cristina, Andrea Marcela",
+                "vote": "SI",
+                "seat": "39"
+            },
+            {
+                "name": "Olalla de Moreira, Stella Maris",
+                "vote": "SI",
+                "seat": "70"
+            },
+            {
+                "name": "De Angeli, Alfredo Luis",
+                "vote": "SI",
+                "seat": "6"
+            },
+            {
+                "name": "Olivera Lucero, Bruno Antonio",
+                "vote": "SI",
+                "seat": "65"
+            },
+            {
+                "name": "De Pedro, Eduardo Enrique ABS. 56 53.Pagotto, Juan Carlos",
+                "vote": "SI",
+                "seat": "48"
+            },
+            {
+                "name": "Di Tullio, Juliana ABS. 1 54.Paoltroni, Francisco Manuel",
+                "vote": "SI",
+                "seat": "66"
+            },
+            {
+                "name": "Espínola, Carlos Mauricio",
+                "vote": "SI",
+                "seat": "62"
+            },
+            {
+                "name": "Fama, Flavio Sergio",
+                "vote": "SI",
+                "seat": "44"
+            },
+            {
+                "name": "Gadano, Natalia Elena",
+                "vote": "SI",
+                "seat": "71"
+            },
+            {
+                "name": "Rojas Decut, Sonia Elizabeth",
+                "vote": "SI",
+                "seat": "59"
+            },
+            {
+                "name": "Galaretto, Eduardo Horacio",
+                "vote": "SI",
+                "seat": "41"
+            },
+            {
+                "name": "Romero, Juan Carlos",
+                "vote": "SI",
+                "seat": "19"
+            },
+            {
+                "name": "Gimenez, Nora del Valle ABS. 16 64.Silva, Mónica Esther",
+                "vote": "SI",
+                "seat": "60"
+            },
+            {
+                "name": "Goerling Lara, Enrique Martín",
+                "vote": "SI",
+                "seat": "26"
+            },
+            {
+                "name": "Suárez, Rodolfo Alejandro",
+                "vote": "SI",
+                "seat": "23"
+            },
+            {
+                "name": "González, María Teresa Margarita ABS. 18 66.Tagliaferri, Guadalupe",
+                "vote": "SI",
+                "seat": "8"
+            },
+            {
+                "name": "Huala, María Victória",
+                "vote": "SI",
+                "seat": "25"
+            },
+            {
+                "name": "Terenzi, Edith Elizabeth",
+                "vote": "SI",
+                "seat": "64"
+            },
+            {
+                "name": "Juez, Luis Alfredo",
+                "vote": "SI",
+                "seat": "9"
+            },
+            {
+                "name": "Juri, Mariana",
+                "vote": "SI",
+                "seat": "20"
+            },
+            {
+                "name": "Valenzuela, Mercedes Gabriela",
+                "vote": "SI",
+                "seat": "45"
+            },
+            {
+                "name": "Kirchner, Alicia Margarita Antonia ABS. 50 70.Vigo, Alejandra María",
+                "vote": "SI",
+                "seat": "61"
+            },
+            {
+                "name": "Kroneberger, Daniel Ricardo",
+                "vote": "SI",
+                "seat": "24"
+            },
+            {
+                "name": "Vischi, Eduardo Alejandro",
+                "vote": "SI",
+                "seat": "22"
+            },
+            {
+                "name": "Kueider, Edgardo Dario",
+                "vote": "SI",
+                "seat": "63"
+            },
+            {
+                "name": "Zimmermann, Victor",
+                "vote": "SI",
+                "seat": "21"
+            }
+        ],
+        "result": "AFIRMATIVA",
+        "act_id": 2444
     }
 ]

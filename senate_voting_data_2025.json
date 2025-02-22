@@ -1,6 +1,7 @@
 [
     {
-        "motion_number": "2524/24",
+        "project_title": "MOCION SOBRE TABLAS Nº 2524/24",
+        "description": "VOTACION SIN NOMENCLAR",
         "date": "20/02/2025 16:05:40",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:05:40 Acta : 1",
         "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
@@ -376,7 +377,8 @@
         "act_id": 2525
     },
     {
-        "motion_number": null,
+        "project_title": "EXPEDIENTE Nº 2524/24",
+        "description": "VOTACION SIN NOMENCLAR",
         "date": "20/02/2025 16:13:47",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:13:47 Acta : 2",
         "majority_required": "DOS TERCIOS MIEMBROS DEL CUERPO",
@@ -752,7 +754,8 @@
         "act_id": 2526
     },
     {
-        "motion_number": "2529/24",
+        "project_title": "MOCION SOBRE TABLAS Nº 2529/24",
+        "description": "VOTACION SIN NOMENCLAR",
         "date": "20/02/2025 16:25:24",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:25:24 Acta : 3",
         "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
@@ -1128,7 +1131,8 @@
         "act_id": 2527
     },
     {
-        "motion_number": null,
+        "project_title": "EXPEDIENTE Nº 2529/24",
+        "description": "VOTACION SIN NOMENCLAR",
         "date": "20/02/2025 16:27:35",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:27:35 Acta : 4",
         "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
@@ -1504,7 +1508,8 @@
         "act_id": 2528
     },
     {
-        "motion_number": "2530/24",
+        "project_title": "MOCION SOBRE TABLAS Nº 2530/24",
+        "description": "VOTACION SIN NOMENCLAR",
         "date": "20/02/2025 16:29:45",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:29:45 Acta : 5",
         "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
@@ -1880,7 +1885,8 @@
         "act_id": 2529
     },
     {
-        "motion_number": "2521/24",
+        "project_title": "MOCION SOBRE TABLAS Nº 2521/24",
+        "description": "VOTACION SIN NOMENCLAR",
         "date": "20/02/2025 16:31:57",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:31:57 Acta : 6",
         "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
@@ -1946,7 +1952,8 @@
         "act_id": 2530
     },
     {
-        "motion_number": "2539/24",
+        "project_title": "MOCION SOBRE TABLAS Nº 2539/24",
+        "description": "VOTACION SIN NOMENCLAR",
         "date": "20/02/2025 16:50:02",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 16:50:02 Acta : 7",
         "majority_required": "DOS TERCIOS LEGISLADORES PRESENTES",
@@ -2322,7 +2329,8 @@
         "act_id": 2531
     },
     {
-        "motion_number": null,
+        "project_title": "OD ACUERDO (154, 158, 221, 224 A 226/24)",
+        "description": "SE VOTA EN GENERAL Y EN PARTICULAR",
         "date": "20/02/2025 17:19:19",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 17:19:19 Acta : 8",
         "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
@@ -2693,7 +2701,8 @@
         "act_id": 2532
     },
     {
-        "motion_number": null,
+        "project_title": "OD ACUERDOS 222, 223/24",
+        "description": "SE VOTA EN GENERAL Y EN PARTICULAR",
         "date": "20/02/2025 17:20:31",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 17:20:31 Acta : 9",
         "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
@@ -3064,7 +3073,9 @@
         "act_id": 2533
     },
     {
-        "motion_number": null,
+        "motion_number": "593",
+        "project_title": "SUSPENSION PASO",
+        "description": "SE VOTA EN GENERAL Y EN PARTICULAR",
         "date": "20/02/2025 20:05:04",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 20:05:04 Acta : 10",
         "majority_required": "MAS 1/2 MIEMBROS DEL CUERPO",
@@ -3410,7 +3421,9 @@
         "act_id": 2534
     },
     {
-        "motion_number": null,
+        "motion_number": "595",
+        "project_title": "JUICIO EN AUSENCIA",
+        "description": "SE VOTA EN GENERAL Y EN PARTICULAR",
         "date": "20/02/2025 21:53:09",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 21:53:09 Acta : 11",
         "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
@@ -3786,7 +3799,9 @@
         "act_id": 2535
     },
     {
-        "motion_number": null,
+        "motion_number": "594",
+        "project_title": "REITERANCIA",
+        "description": "SE VOTA EN GENERAL",
         "date": "20/02/2025 22:47:23",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 22:47:23 Acta : 12",
         "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
@@ -4162,7 +4177,9 @@
         "act_id": 2536
     },
     {
-        "motion_number": null,
+        "motion_number": "594",
+        "project_title": "ART 1 Y 2",
+        "description": "SE VOTA EN PARTICULAR",
         "date": "20/02/2025 22:50:12",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 22:50:12 Acta : 13",
         "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
@@ -4538,7 +4555,9 @@
         "act_id": 2537
     },
     {
-        "motion_number": null,
+        "motion_number": "594",
+        "project_title": "ART 3 AL 10",
+        "description": "SE VOTA EN PARTICULAR",
         "date": "20/02/2025 22:52:01",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 22:52:01 Acta : 14",
         "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
@@ -4914,7 +4933,9 @@
         "act_id": 2538
     },
     {
-        "motion_number": null,
+        "motion_number": "594",
+        "project_title": "ART 11",
+        "description": "SE VOTA EN PARTICULAR",
         "date": "20/02/2025 22:53:13",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 22:53:13 Acta : 15",
         "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
@@ -5290,7 +5311,9 @@
         "act_id": 2539
     },
     {
-        "motion_number": null,
+        "motion_number": "217",
+        "project_title": "CRIMEN ORGANIZADO",
+        "description": "SE VOTA EN GENERAL Y EN PARTICULAR",
         "date": "20/02/2025 23:46:18",
         "quorum_type": "MAS 1/2 MC Fecha: 20/02/2025 23:46:18 Acta : 16",
         "majority_required": "MAS 1/2 LEGISLADORES PRESENTES",
