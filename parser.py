@@ -44,8 +44,16 @@ def download_pdf(act_id):
 
 def extract_text_from_pdf(pdf_path):
     """Extracts text from a given PDF file."""
-    with pdfplumber.open(pdf_path) as pdf:
-        return "\n".join(page.extract_text() for page in pdf.pages if page.extract_text())
+    try:
+        with pdfplumber.open(pdf_path) as pdf:
+            text = "\n".join(page.extract_text() for page in pdf.pages if page.extract_text())
+            if not text.strip():
+                print(f"⚠️ Warning: No text extracted from {pdf_path}")
+                return None
+            return text
+    except Exception as e:
+        print(f"❌ Error processing PDF {pdf_path}: {str(e)}")
+        return None
 
 def parse_votation_data(text):
     """Parses the extracted text and returns structured voting data."""
@@ -84,18 +92,47 @@ def parse_votation_data(text):
     data["negative"] = int(negative_match.group(1)) if negative_match else None
     data["abstentions"] = int(abstentions_match.group(1)) if abstentions_match else None
 
-    # Extract individual votes
+    # Validate total members
+    if data["total_members"] is not None:
+        if data["present"] is not None and data["absent"] is not None:
+            if data["total_members"] != data["present"] + data["absent"]:
+                print(f"⚠️ Warning: Total members ({data['total_members']}) != Present ({data['present']}) + Absent ({data['absent']})")
+
+    # Extract individual votes with improved pattern
     votes = []
-    vote_pattern = re.findall(r'(\d+\.\s+([\w\s,ÁÉÍÓÚÑñ]+)\s+(SI|NO|AUSENTE)\s+(\d+|Presidente))', text)
+    # Updated pattern to better handle various formats and special characters
+    vote_pattern = re.findall(r'(?:\d+\s*\.\s*|\b)([A-ZÁÉÍÓÚÑ][^()\n]+?)\s+(SI|NO|AUSENTE)\s+(\d+|Presidente)', text, re.UNICODE)
 
     for match in vote_pattern:
+        name = match[0].strip().replace('  ', ' ')  # Clean up multiple spaces
+        vote_type = match[1]
+        seat = match[2]
+        
+        # Skip empty or malformed entries
+        if not name or len(name) < 2:
+            continue
+            
         votes.append({
-            "name": match[1].strip(),
-            "vote": match[2],
-            "seat": match[3] if match[3] != "Presidente" else "Presidente"
+            "name": name,
+            "vote": vote_type,
+            "seat": seat if seat != "Presidente" else "Presidente"
         })
 
     data["votes"] = votes
+
+    # Validate vote counts
+    vote_counts = {
+        "SI": sum(1 for v in votes if v["vote"] == "SI"),
+        "NO": sum(1 for v in votes if v["vote"] == "NO"),
+        "AUSENTE": sum(1 for v in votes if v["vote"] == "AUSENTE")
+    }
+
+    if data["affirmative"] is not None and vote_counts["SI"] != data["affirmative"]:
+        print(f"⚠️ Warning: Affirmative votes mismatch - Counted: {vote_counts['SI']}, Reported: {data['affirmative']}")
+    if data["negative"] is not None and vote_counts["NO"] != data["negative"]:
+        print(f"⚠️ Warning: Negative votes mismatch - Counted: {vote_counts['NO']}, Reported: {data['negative']}")
+    if data["absent"] is not None and vote_counts["AUSENTE"] != data["absent"]:
+        print(f"⚠️ Warning: Absent votes mismatch - Counted: {vote_counts['AUSENTE']}, Reported: {data['absent']}")
 
     # Extract voting result
     result_match = re.search(r'Resultado:\s*([A-ZÁÉÍÓÚÑ ]+)', text)
@@ -111,8 +148,15 @@ def main():
     for year in range(2023, 2025):  # Adjust range as needed
         filename = f"senate_voting_data_{year}.json"
         if os.path.exists(filename):
-            with open(filename, 'r', encoding='utf-8') as f:
-                results_by_year[filename] = json.load(f)
+            try:
+                with open(filename, 'r', encoding='utf-8') as f:
+                    results_by_year[filename] = json.load(f)
+            except json.JSONDecodeError as e:
+                print(f"❌ Error loading {filename}: {str(e)}")
+                results_by_year[filename] = []
+            except Exception as e:
+                print(f"❌ Unexpected error loading {filename}: {str(e)}")
+                results_by_year[filename] = []
     
     current_id = START_ID
     consecutive_failures = 0
@@ -123,23 +167,37 @@ def main():
         pdf_path = download_pdf(current_id)
         
         if pdf_path:
-            consecutive_failures = 0  # Reset counter on success
             text = extract_text_from_pdf(pdf_path)
-            data = parse_votation_data(text)
-            data["act_id"] = current_id
-            
-            # Determine which year file this should go into
-            if data["date"]:
-                output_file = get_output_filename(data["date"])
-                if output_file:
-                    if output_file not in results_by_year:
-                        results_by_year[output_file] = []
-                    results_by_year[output_file].append(data)
+            if text:
+                try:
+                    data = parse_votation_data(text)
+                    if not data.get("date"):
+                        print(f"⚠️ Warning: No date found in Acta {current_id}")
+                        consecutive_failures += 1
+                        continue
+                        
+                    data["act_id"] = current_id
+                    consecutive_failures = 0  # Reset counter on success
                     
-                    # Save after each successful download
-                    with open(output_file, "w", encoding="utf-8") as json_file:
-                        json.dump(results_by_year[output_file], json_file, indent=4, ensure_ascii=False)
-                    print(f"✅ Updated {output_file}")
+                    # Determine which year file this should go into
+                    output_file = get_output_filename(data["date"])
+                    if output_file:
+                        if output_file not in results_by_year:
+                            results_by_year[output_file] = []
+                        results_by_year[output_file].append(data)
+                        
+                        # Save after each successful download
+                        try:
+                            with open(output_file, "w", encoding="utf-8") as json_file:
+                                json.dump(results_by_year[output_file], json_file, indent=4, ensure_ascii=False)
+                            print(f"✅ Updated {output_file}")
+                        except Exception as e:
+                            print(f"❌ Error saving {output_file}: {str(e)}")
+                except Exception as e:
+                    print(f"❌ Error parsing Acta {current_id}: {str(e)}")
+                    consecutive_failures += 1
+            else:
+                consecutive_failures += 1
         else:
             consecutive_failures += 1
             print(f"Consecutive failures: {consecutive_failures}")
